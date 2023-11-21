@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-fullscreen-bg-slider/static/css/main.65ccb1f0.css",
+    "main.js": "/react-fullscreen-bg-slider/static/js/main.c5be05f5.js",
+    "static/js/787.3cdc8eeb.chunk.js": "/react-fullscreen-bg-slider/static/js/787.3cdc8eeb.chunk.js",
+    "static/media/pic3.jpg": "/react-fullscreen-bg-slider/static/media/pic3.8bd7c61914029cfd639d.jpg",
+    "static/media/lptp.jpg": "/react-fullscreen-bg-slider/static/media/lptp.a9164c8d6cadcaf2c0ed.jpg",
+    "static/media/lptp2.jpg": "/react-fullscreen-bg-slider/static/media/lptp2.b8dae40029d62afafb3b.jpg",
+    "index.html": "/react-fullscreen-bg-slider/index.html",
+    "main.65ccb1f0.css.map": "/react-fullscreen-bg-slider/static/css/main.65ccb1f0.css.map",
+    "main.c5be05f5.js.map": "/react-fullscreen-bg-slider/static/js/main.c5be05f5.js.map",
+    "787.3cdc8eeb.chunk.js.map": "/react-fullscreen-bg-slider/static/js/787.3cdc8eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ccb1f0.css",
+    "static/js/main.c5be05f5.js"
+  ]
+}
